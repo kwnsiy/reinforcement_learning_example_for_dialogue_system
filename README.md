@@ -1,1 +1,3 @@
 # reinforcement_learning_example_for_dialogue_system
+Juliaによる対話システムのための強化学習・逆強化学習
+
